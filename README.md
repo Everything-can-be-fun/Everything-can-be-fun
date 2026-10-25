@@ -48,6 +48,6 @@ I'm organizing my research and engineering repositories. Project descriptions an
 ## Contact
 
 - **Email:** [bgb@hrbeu.edu.cn](mailto:bgb@hrbeu.edu.cn)
-- **Personal website:** [everything-can-be-fun.github.io](https://everything-can-be-fun.github.io/) *(deployment planned)*
+- **Personal website:** [everything-can-be-fun.github.io](https://everything-can-be-fun.github.io/)
 
 <sub>Only public-facing information is included here. Project statuses and technical experience will be updated as work progresses.</sub>
